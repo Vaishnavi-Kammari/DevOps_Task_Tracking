@@ -4,7 +4,7 @@ This repository demonstrates how **Zoho Projects** or **Zoho Sprints** can be us
 
 ## Overview
 
-![DevOps Workflow](images/devops-workflow.png)
+![DevOps Workflow](devops-workflow.png)
 
 ## What This Repository Contains
 - **Zoho_DevOps_Task_Tracking.md** – Detailed workflow for managing DevOps tasks
